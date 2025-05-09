@@ -1,0 +1,8 @@
+EMODB/
+.DS_Store
+mlruns/
+models/
+whisper_cls_tiny_lora_mps/
+whisper_cls_small_lora_mps/
+prova.py
+evaluate_distillation_mlflow.ipynb
