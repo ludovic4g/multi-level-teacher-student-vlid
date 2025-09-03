@@ -8,3 +8,10 @@ whisper_cls_small_lora/
 prova.py
 evaluate_distillation_mlflow.ipynb
 BABELE/
+NEWEMODB/
+VidTIMIT/
+ckpts/
+reports/
+splits_session2/
+teacher_cache/
+video_mouth/
